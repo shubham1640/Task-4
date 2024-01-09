@@ -1,0 +1,13 @@
+/* Style your pages as needed */
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.question {
+    margin-top: 20px;
+}
+
+/* Additional styling as needed */
